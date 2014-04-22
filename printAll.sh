@@ -1,4 +1,5 @@
 #!/bin/bash
+# Batch file to document an Oracle BI Repository
 echo $1
 echo "Press any key to continue [$1] [$2]"
 read theDir
