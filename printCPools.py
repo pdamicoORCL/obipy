@@ -3,7 +3,7 @@
 #
 #  printCpools.py
 #  
-#  Copyright 2013 Phil D'Amico <pdamico@pdamico-mint32>
+#  Copyright 2013 Phil D'Amico
 #  
 #  
 
