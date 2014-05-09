@@ -6,6 +6,7 @@
 #  Copyright 2013 Phil D'Amico 
 #  
 #  
+# routine to print all variables in a repository
 
 import datetime
 import sys
